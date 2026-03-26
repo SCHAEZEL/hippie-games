@@ -1,6 +1,6 @@
 # HippieGames Hub
 
-> 王诗昕的作品集导航页
+> Schaezel的作品集导航页
 
 🌐 **在线访问**: https://schaezel.github.io/hippie-games/
 
